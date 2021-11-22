@@ -1,7 +1,7 @@
 <h1 align="center">Hello I'm SENPAi XD║ツ<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi"><br></h1>
 
 <p align="center">
-  <a href="https://github.com/SENPAi-X-D"><img src="http://readme-typing-svg.herokuapp.com?color=FFFF00&center=true&vCenter=true&multiline=false&lines=Hey+there!+👋;I'm+a+noob👽;I'm+currently+Learning+Javascript.;Don't+bully+me+^ - ^" alt="¯\_(ツ)_/¯">
+  <a href="https://github.com/SENPAi-X-D"><img src="http://readme-typing-svg.herokuapp.com?color=32CD32&center=true&vCenter=true&multiline=false&lines=Hey+there!+👋;I'm+a+noob👽;I'm+currently+Learning+Javascript.;Don't+bully+me+^ - ^" alt="¯\_(ツ)_/¯">
 </p>
 
 <p align="center">
