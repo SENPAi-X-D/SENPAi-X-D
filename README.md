@@ -23,7 +23,7 @@
 </p>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=SENPAi-X-D&show_icons=true&theme=tokyonight)
-![github toplang](https://github-readme-stats.vercel.app/api&layout=compact&theme=nightowl)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=SENPAi-X-D&layout=compact&theme=nightowl)
 <a href="https://github.com/SENPAi-X-D"><img src="https://github-readme-streak-stats.herokuapp.com?user=SENPAi-X-D&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SENPAi-X-D&theme=monokai)
 
